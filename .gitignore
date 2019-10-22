@@ -1,0 +1,5 @@
+# Env
+.idea/
+*.iml
+.env
+venv/
